@@ -1,0 +1,59 @@
+.emacs.d/auto-save-list/
+.emacs.d/backups/
+.emacs.d/elpa/
+.emacs.d/network-security.data
+.emacs.d/recentf
+.emacs.d/temp
+.emacs.d/tutorial/
+.emacs.d/projectile-bookmarks.eld
+.emacs.d/projectile.cache
+.emacs.d/eshell/lastdir
+.emacs.d/eshell/history
+.CFUserTextEncoding
+.DS_Store
+.Trash/
+.adobe/
+.bash_history
+.config/
+.cpan/
+.cups/
+.dropbox/
+.dvdcss/
+.flexlmrc
+.ghc/
+.gitconfig
+.gstreamer-0.10/
+.ipython/
+.jupyter/
+.lesshst
+.matplotlib/
+.mplayer/
+.oracle_jre_usage/
+.profile
+.profile.pysave
+.python_history
+.ssh/
+.subversion/
+.vim/.netrwhist
+.viminfo
+Applications/
+Desktop/
+Documents/
+Downloads/
+Dropbox/
+H6 - sansefysiologi.md
+H7 - syns, smags og lugtesanserne.md
+"H8 - H\303\270re- og ligev\303\246gtssanserne.md"
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+VirtualBox VMs/
+geckodriver.log
+ghostdriver.log
+isus/
+macports/
+oxdicttoanki.py
+python/
+vagtskifte 20/
