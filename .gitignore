@@ -41,19 +41,13 @@ Desktop/
 Documents/
 Downloads/
 Dropbox/
-H6 - sansefysiologi.md
-H7 - syns, smags og lugtesanserne.md
-"H8 - H\303\270re- og ligev\303\246gtssanserne.md"
 Library/
 Movies/
 Music/
 Pictures/
 Public/
 VirtualBox VMs/
-geckodriver.log
-ghostdriver.log
 isus/
 macports/
-oxdicttoanki.py
 python/
-vagtskifte 20/
+*.log
